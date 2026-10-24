@@ -1,5 +1,11 @@
 # Bluetooth Device Cleanup
 
+![GitHub stars](https://img.shields.io/github/stars/Chandru3493/bluetooth-device-cleanup?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/Chandru3493/bluetooth-device-cleanup?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?style=flat-square&logo=powershell)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat-square&logo=windows)
+![Last commit](https://img.shields.io/github/last-commit/Chandru3493/bluetooth-device-cleanup?style=flat-square)
+
 A PowerShell script to **unpair duplicate or problematic Bluetooth devices** (both Classic and Bluetooth LE) and **recover a hung Bluetooth service** (`bthserv`) on Windows.
 
 > **Script file:** `Reset-Bluetooth.ps1`
